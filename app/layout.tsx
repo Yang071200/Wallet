@@ -11,9 +11,9 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "GO Wallet",
-  description: "GO wallet is a modern and all in one finance managing application.",
+  description: "GO wallet is a modern and all in one finance tracker web application.",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo.png'
   }
 };
 
